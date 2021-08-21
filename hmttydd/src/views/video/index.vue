@@ -1,5 +1,5 @@
 <template>
-    <div class="video-container">我的视频</div>
+    <div class="video-container">视频开发中</div>
 </template>
 
 <script>
