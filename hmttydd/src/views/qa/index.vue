@@ -1,5 +1,5 @@
 <template>
-    <div class="qa-container">问答</div>
+    <div class="qa-container">我的问答</div>
 </template>
 
 <script>
